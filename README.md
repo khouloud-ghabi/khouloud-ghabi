@@ -1,7 +1,6 @@
 <h2 align="left">Hi 👋! My name is Khouloud Ghabi and I'm a Software Engineering, from Tunisia</h2>
 
 ###
-###
 
 <h2 align="left">Quotes</h2>
 
@@ -9,11 +8,7 @@
 
 ###
 
-###
-<br clear="both">
-<img align="right" height="130" src="https://media3.giphy.com/media/GYtblmdLnemlO/giphy.gif"  />
-<br clear="both">
-###
+
 <h2 align="left">I code with</h2>
 
 <div align="left">
@@ -63,6 +58,7 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="30" alt="vscode logo"  />
 </div>
+<img align="right" height="130" src="https://media3.giphy.com/media/GYtblmdLnemlO/giphy.gif"  />
 
 
 ###
